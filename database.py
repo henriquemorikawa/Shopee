@@ -94,15 +94,5 @@ sales_list = [
     },
 ]
 
-old_item = {
-        'seller_name': 'Brazil',
-        'customer_name': 'Rodrigo',
-        'sale_date': '2018-08-17',
-        'item_name': 'Bolinhas Cravo Anti Stress Pet Atacado e Varejos',
-        'price': 1.90
-    }
-
-
-
 #uncomment the line below to add the items in your database
 # mycollection.insert_many(sales_list)
