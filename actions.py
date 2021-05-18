@@ -79,7 +79,7 @@ def edit_item(list):
             seller_option = input('\n\nDo you want to edit or remove this item? (type a number)\n\n 1. Edit\n 2. Remove\n\n')
             if seller_option not in options:
                 print('\nPlease select of one the options (type a number).\nYour input was: ' +  seller_option)
-            elif seller_option == 1:
+            elif seller_option == '1':
                 add_sale(index)
                 break
             else:

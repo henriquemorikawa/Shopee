@@ -95,4 +95,4 @@ sales_list = [
 ]
 
 #uncomment the line below to add the items in your database
-# mycollection.insert_many(sales_list)
+#mycollection.insert_many(sales_list)
